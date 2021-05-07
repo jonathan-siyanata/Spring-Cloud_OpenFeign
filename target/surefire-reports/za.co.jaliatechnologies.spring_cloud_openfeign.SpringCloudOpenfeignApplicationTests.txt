@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: za.co.jaliatechnologies.spring_cloud_openfeign.SpringCloudOpenfeignApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.513 s <<< FAILURE! - in za.co.jaliatechnologies.spring_cloud_openfeign.SpringCloudOpenfeignApplicationTests
+za.co.jaliatechnologies.spring_cloud_openfeign.SpringCloudOpenfeignApplicationTests  Time elapsed: 1.5 s  <<< ERROR!
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to read candidate component class: file [/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/target/classes/za/co/jaliatechnologies/spring_cloud_openfeign/SpringCloudOpenFeignApplication.class]; nested exception is org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.autoconfigure.SpringBootApplication] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].
+Caused by: org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.autoconfigure.SpringBootApplication] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].
+

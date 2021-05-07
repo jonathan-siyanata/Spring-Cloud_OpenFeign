@@ -1,0 +1,7 @@
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/JSONPlaceHolderClient.java
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/MyClientConfiguration.java
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/PostDto.java
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/SpringCloudOpenFeignApplication.java
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/JSONPlaceHolderFallback.java
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/CustomErrorDecoder.java
+/home/jonathan/Documents/Spring_Boot_Open_Feign_Example/spring_cloud_openfeign/src/main/java/za/co/jaliatechnologies/spring_cloud_openfeign/ClientConfiguration.java

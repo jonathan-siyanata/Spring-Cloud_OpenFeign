@@ -1,0 +1,12 @@
+feign:
+  client:
+    config:
+      jplaceholder:
+        default:
+          connectTimeout:5000
+          readTimeout:5000
+            requestInterceptors:
+              com.baeldung.cloud.openfeign.JSONPlaceHolderInterceptor
+                loggerLevel: basic
+
+

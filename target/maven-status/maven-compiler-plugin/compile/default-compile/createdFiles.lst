@@ -1,0 +1,7 @@
+za/co/jaliatechnologies/buildingarestapiwithspring/PostDto.class
+za/co/jaliatechnologies/spring_cloud_openfeign/JSONPlaceHolderClient.class
+za/co/jaliatechnologies/spring_cloud_openfeign/CustomErrorDecoder.class
+za/co/jaliatechnologies/spring_cloud_openfeign/JSONPlaceHolderFallback.class
+za/co/jaliatechnologies/spring_cloud_openfeign/MyClientConfiguration.class
+za/co/jaliatechnologies/spring_cloud_openfeign/ClientConfiguration.class
+za/co/jaliatechnologies/spring_cloud_openfeign/SpringCloudOpenFeignApplication.class
